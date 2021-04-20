@@ -16,7 +16,7 @@
 <h1 align="center">Normal Version</h1>
 
   ```html
-wget https://raw.githubusercontent.com/xiihaiqal/OCS_PANEL/master/Install && chmod +x Install && ./Install
+wget https://raw.githubusercontent.com/xiihaiqal/OCS_PANEL/master/Normal && chmod +x Normal && ./Normal
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
