@@ -35,7 +35,7 @@ wget https://raw.githubusercontent.com/xiihaiqal/OCS_PANEL/master/Normal && chmo
 <h1 align="center">Premium Version</h1>
 
   ```html
-wget https://raw.githubusercontent.com/xiihaiqal/OCS_PANEL/master/Premium && chmod +x Premium && ./Premium
+wget https://raw.githubusercontent.com/xiihaiqal/OCS_PANEL/master/Premium && chmod +x Premium && bash Premium
   ```
   <h3 align="center">Screenshots</h3>
 <p align="center">
